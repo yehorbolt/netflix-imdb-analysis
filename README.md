@@ -1,4 +1,4 @@
-# Netflix IMDB Scores visualistaion
+# Netflix IMDB Scores visualization
 
 ### [Dataset link](https://www.kaggle.com/datasets/thedevastator/netflix-imdb-scores/data)
 ### [By Back 2 Viz Basics](https://data.world/back2vizbasics)
